@@ -1,7 +1,7 @@
 {
   "name": "generator-juckstrap",
   "version": "0.0.1",
-  "description": "Yeoman generator",
+  "description": "A Yeoman generator for the juckstrap project.",
   "license": "MIT",
   "main": "app/index.js",
   "repository": "travist/generator-juckstrap",
