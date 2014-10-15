@@ -1,6 +1,6 @@
 {
   "name": "generator-juckstrap",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A Yeoman generator for the juckstrap project.",
   "license": "MIT",
   "main": "app/index.js",
@@ -25,7 +25,7 @@
   "dependencies": {
     "async": "^0.9.0",
     "chalk": "^0.5.0",
-    "juckstrap": "0.0.1",
+    "juckstrap": "^0.0.1",
     "ncp": "^1.0.1",
     "yeoman-generator": "^0.17.0",
     "yosay": "^0.3.0"
