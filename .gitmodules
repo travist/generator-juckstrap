@@ -1,0 +1,3 @@
+[submodule "app/templates/juckstrap"]
+	path = app/templates/juckstrap
+	url = git@github.com:travist/juckstrap.git
